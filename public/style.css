@@ -376,4 +376,13 @@ nav a {
     margin: 5px 0;
     background-color: #dadada;
   }
+
+  /* CHAT RELATED */
+  #chat-container {
+    max-width: 80%;
+  }
+
+  #input-field input {
+    max-width: 220px;
+  }
 }
