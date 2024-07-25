@@ -1,6 +1,6 @@
 # Infinite Dungeon Crawler
 
-Infinite Dungeon Crawler is an evolution of the text-adventure game utilizing OpenAI's API to generate dynamic and unending stories around the users actions. If you'd like to test and play around with it in its current state, you can try that [here](https://infinite-dungeon-crawler-production.up.railway.app/)
+Infinite Dungeon Crawler is an evolution of the text-adventure game utilizing OpenAI's API to generate dynamic and unending stories around the users actions. If you'd like to test and play around with it in its current state, you can try that [here.](https://infinite-dungeon-crawler-production.up.railway.app/)
 
 ## Installation
 
